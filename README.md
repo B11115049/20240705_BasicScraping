@@ -12,6 +12,7 @@
 - [Github](https://github.com/WuSandWitch/20240705_BasicScraping)
 - [完整簡報連結](https://slides.com/wusandwitch/copy-of)
 - [實況簡報](https://slides.com/d/1c6Gus0/live)
+- [動態爬蟲簡報](https://slides.com/ian523411732/20240705)
 
 
 ## 工具連結
